@@ -36,7 +36,6 @@ To implement Beams, you'll need a computer to use as a server that has the follo
 
 For full installation and usage instructions, see the "Getting Started" guide the Beams community maintains on GitHub at http://bit.ly/1JPRIjJ
 
-
 Roscoe Labs is the lead developer of Beams, which is free to use under MIT License. 
 
 Of course, we also encourage and welcome contributions and feedback from anyone interested in making Beams better. There are many ways for technical and non-technical contributors alike to participate, including our company GitHub page at https://github.com/roscoelabs and the Beams Working Group listserv at http://bit.ly/1rF4j0G
@@ -46,4 +45,4 @@ Cheers,
 Peter McKay  
 Co-Founder/Chief Product Officer  
 Roscoe Labs  
-Twitter: @peteramckay  
+Twitter: <a href="https://twitter.com/peteramckay">@peteramckay</a>  
